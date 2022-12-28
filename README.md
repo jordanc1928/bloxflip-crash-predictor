@@ -1,6 +1,6 @@
 # bloxflip-crash-predictor
 
-1This predictor will ONLY work if you star it. Star goal: (1/5)
+1This predictor will ONLY work if you star it. Star goal: (4/5)
 
 • Discord Webhook support (get next game's results via Discord server.
 
